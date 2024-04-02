@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login</title>
+    <link rel="shortcut icon" href="../img/logo.png">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+
+    <script src="js/jquery-3.2.1.js"></script>
+    <script src="js/script.js"></script>
+</head>
+<body>
+
+    <header class="header">
+        <nav class="navbar">
+            <img src="../img/logo.png" class="logo" alt="Mi Logo">
+            <ul class="menu">
+                <li><a href="../Home.html">HOME</a></li>
+                <li><a href="../Formulario_pedido/PedidoHeroTech.html">HACER UN PEDIDO</a></li>
+                <li><a href="../SobreNosotros.html">SOBRE NOSOTROS</a></li>
+                <li><a href="../Formulario_login/Login.html">LOGIN</a></li>
+            </ul>
+            <div class="menu-bar">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </nav>
+    </header>
+
+    <section class="form_wrap">
+
+        <section class="cantact_info">
+            <section class="info_title">
+                <span class="fa fa-id-card-o"></span>
+                <h2>Formulario<br>Login</h2>
+            </section>
+            
+        </section>
+
+        <form action="enviar.php" method="post" class="form_contact">
+            <h2>Bienvenido al Formulario de Registro</h2>
+            <div class="user_info">
+                <label for="names">Usuario *(Debe contener entre 5 y 15 caracteres)</label>
+                <input type="text" id="names" name="usuario" required minlength="5" maxlength="15">
+
+                <label for="phone">Contraseña *(La contraseña debe tener entre 8 y 16 caracteres, al menos un dígito, al menos una minúscula y al menos una mayúscula.
+                    Puede tener otros símbolos.)</label>
+                <input type="password" id="phone" name="contraseña" required  pattern="^(?=\w*\d)(?=\w*[A-Z])(?=\w*[a-z])\S{8,16}$">
+
+                <input type="submit" value="Login" id="btnSend">
+            </div>
+        </form>
+
+    </section>
+
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>¡Contáctanos!</title>
+
+    <link rel="shortcut icon" href="../img/logo.png">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+
+    <script src="https://kit.fontawesome.com/b98bbef25f.js" crossorigin="anonymous"></script>
+    <script src="js/jquery-3.2.1.js"></script>
+    <script src="js/script.js"></script>
+</head>
+<body>
+
+    <header class="header">
+        <nav class="navbar">
+            <img src="../img/logo.png" class="logo" alt="Mi Logo">
+            <ul class="menu">
+                <li><a href="../Home.html">HOME</a></li>
+                <li><a href="../Formulario_pedido/PedidoHeroTech.html">HACER UN PEDIDO</a></li>
+                <li><a href="../SobreNosotros.html">SOBRE NOSOTROS</a></li>
+                <li><a href="../Formulario_login/Login.html">LOGIN</a></li>
+            </ul>
+            <div class="menu-bar">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </nav>
+    </header>
+
+    <section class="form_wrap">
+
+        <section class="cantact_info">
+            <section class="info_title">
+                <span class="fa fa-user-circle"></span>
+                <h2>INFORMACIÓN<br>DE CONTACTO</h2>
+            </section>
+            <section class="info_items">
+                <p><span class="fa fa-envelope"></span> HeroTech@gmail.com</p>
+                <p><span class="fa fa-mobile"></span> +51 955-191-447</p>
+            </section>
+        </section>
+
+        <form action="contacto.php" method="post" class="form_contact">
+            <h2>Envia un mensaje</h2>
+            <div class="user_info">
+                <label for="names">Nombres *</label>
+                <input type="text" id="names" name="nombres" required>
+
+                <label for="phone">Teléfono / Celular</label>
+                <input type="text" id="phone" name="teléfono">
+
+                <label for="email">Correo electrónico *</label>
+                <input type="text" id="email" name="correo" required pattern="^[^@]+@[^@]+\.[a-zA-Z]{2,}$">
+
+                <label for="mensaje">Mensaje *</label>
+                <textarea id="mensaje" name="mensaje" required></textarea>
+
+                <input type="submit" value="Enviar Mensaje" id="btnSend">
+            </div>
+        </form>
+
+    </section>
+
+    <footer class="footer">
+        <div class="addres">
+            <h4>Dirección</h4>
+            <p>Av. Nicolas de Rivera 201<br>Lima, Jesus María</p>
+        </div>
+
+        <h2><a href="Formulario_contacto/contactame.html">¡Contáctanos!</a></h2>
+
+        <div class="social-network">
+            <ul>
+                <li><a href="https://www.facebook.com/" target="_blank" rel="noopenernoreferrer"><i class="fa-brands fa-facebook"></i></a></li>
+                <li><a href="https://twitter.com/home?lang=es" target="_blank" rel="noopenernoreferrer"><i class="fa-brands fa-twitter"></i></a></li>
+                <li><a href="https://www.instagram.com/herotechunfv2022/" target="_blank" rel="noopenernoreferrer"><i class="fa-brands fa-instagram"></i></a></li>
+                <li><a href="https://pe.linkedin.com/" target="_blank" rel="noopenernoreferrer"><i class="fa-brands fa-linkedin"></i></a></li>
+            </ul>
+        </div>
+    </footer>
+
+</body>
+</html>
