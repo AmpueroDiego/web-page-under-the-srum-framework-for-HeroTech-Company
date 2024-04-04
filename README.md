@@ -25,7 +25,7 @@ HeroTech (fictitious company) is a innventive company focus in technical service
 10. Validation of done, retrospective phase (speed boat)
 11. Agreed actionable improvements, project closure
 
-Ask me for more details at each phase or read the documentation with translator support 😄
+Ask me for more details at each phase or read the documentation in spanish 😄
 <a href="https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/blob/main/Documentation.pdf">Link to Documentation</a>
 
 
