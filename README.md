@@ -46,4 +46,11 @@ You can visit the page at the following link: <a href="https://herotech2023.000w
 ### > Contact Info
 ![Información de Contacto](https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/9d5cf0d7-1096-4dc5-99b5-d531fea79b0f)
 
+## End Notes
+Although the main idea of the project is extensive, in this project we could only advance a demo, but we do not rule out continuing with the plans that will be developed.
 
+Thanks, I hope you enjoy the project! :)
+
+
+## Licence:
+All the rights reserve by HeroTech
