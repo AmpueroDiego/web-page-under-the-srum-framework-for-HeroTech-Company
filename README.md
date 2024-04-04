@@ -1,4 +1,6 @@
 # web-page-under-the-SCRUM-framework-for-the-HeroTech-company
+
+
 ## EN
 Academic Project based on SCRUM Framework: Local website for HeroTech (fictitious company that provide innovative technical service for laptops and smartphones) based on <b>HTML, CSS, JS</b> with registration from <b>PHP</b> that sends email and is connected to a <b>MYSQL</b> database.
 
@@ -11,10 +13,17 @@ HeroTech (fictitious company) is a innventive company focus in technical service
 3. Last mile on demand: Ecommerce revolution that provide the posibility when a customer places an order to be delivered a week later or asap.
 4. Device repair recording: Allows customers to view the repair procedure of their devices in order to the safety and integrity of their devices. 
 
-<div align="center">
-![webHome](https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/82aad960-097f-4159-a6da-2f8b964996aa)
-</div>
+### Login
+![Login](https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/e1e435dc-f43d-44d5-ae43-c3b1bfed9365)
 
+### Home
+![webHome](https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/82aad960-097f-4159-a6da-2f8b964996aa)
+
+### Form
+![formulario](https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/a1f763ec-1be5-49bd-b67b-1d813e7846d9)
+
+### Contact Info
+![Información de Contacto](https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/9d5cf0d7-1096-4dc5-99b5-d531fea79b0f)
 
 
 ## ES
