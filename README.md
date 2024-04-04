@@ -11,9 +11,12 @@ HeroTech (fictitious company) is a innventive company focus in technical service
 3. Last mile on demand: Ecommerce revolution that provide the posibility when a customer places an order to be delivered a week later or asap.
 4. Device repair recording: Allows customers to view the repair procedure of their devices in order to the safety and integrity of their devices. 
 
-
+<div align="center">
+![webHome](https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/82aad960-097f-4159-a6da-2f8b964996aa)
+</div>
 
 
 
 ## ES
 Proyecto académico basado en el marco de trabajo SCRUM: Página web para HeroTech (compañia ficticia que provee servicio técnico innovador para laptops y smartphones) basado en <b>HTML, CSS, JS</b> con un formalario de registro en <b>PHP</b> que envía email y esta conectado a base de datos <b>MYSQL</b>. 
+![Uploading webHome.jpg…]()
