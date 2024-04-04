@@ -32,7 +32,7 @@ Ask me for more details at each phase or read the documentation with translator 
 
 
 ## Results:
-You can see the page in the following link <a href="https://herotech2023.000webhostapp.com/">Go to the website</a>
+You can visit the page at the following link: <a href="https://herotech2023.000webhostapp.com/">Go to the website</a>
 
 
 ### > Login
