@@ -52,6 +52,10 @@ You can visit the page at the following link: <a href="https://herotech2023.000w
 ### > 3FN Model
 <img src="https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/3e65ce0e-c67f-4698-b089-6939c10a47d9" alt="3FN_Model" width="800"/>
 
+### > Desktop App (Tkinter - Python)
+<img src="https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/69a8ab16-81d1-447e-b4bc-f5dc2f75c3b2" alt="3FN_Model" width="400"/>
+
+
 
 
 
