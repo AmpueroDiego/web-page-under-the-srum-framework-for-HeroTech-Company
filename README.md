@@ -1,7 +1,7 @@
 # web-page-under-the-SCRUM-framework-for-the-HeroTech-company
 
 
-**(2022/10)** Academic Project based on SCRUM Framework: Local website and desktop app for HeroTech (fictitious company that provide innovative technical service for laptops and smartphones) based on **_HTML, CSS, JS_** with registration from **_PHP_** that sends data of the from filling by the customer to the company's email and is connected to a <b>MYSQL</b> database. In addition, desktop app developed in **_Python_** with **_Tkinter_** for the company's managers.
+**(2022/10)** Academic Project based on SCRUM Framework: Local website and desktop app for HeroTech (fictitious company that provide innovative technical service for laptops and smartphones) based on **_HTML, CSS, JS_** with registration from **_PHP_** that sends data of the from filling by the customer to the company's email and is connected to a **_MYSQL_** database. In addition, desktop app developed in **_Python_** with **_Tkinter_** for the company's managers.
 
 ### Intro
 
