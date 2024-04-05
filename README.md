@@ -46,6 +46,16 @@ You can visit the page at the following link: <a href="https://herotech2023.000w
 ### > Contact Info
 <img src="https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/9d5cf0d7-1096-4dc5-99b5-d531fea79b0f" alt="ContactImg" width="800"/>
 
+### > Conceptual Model
+<img src="https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/2dcfeee6-c053-4faf-93d6-bae2df478b79" alt="ConceptualModel" width="800"/>
+
+### > 3FN Model
+<img src="https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company/assets/163020350/3e65ce0e-c67f-4698-b089-6939c10a47d9" alt="3FN_Model" width="800"/>
+
+
+
+
+
 ## End Notes
 Although the main idea of the project is extensive, in this project we could only advance a demo, but we do not rule out continuing with the plans that will be developed.
 
