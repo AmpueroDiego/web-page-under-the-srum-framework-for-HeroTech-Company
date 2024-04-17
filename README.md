@@ -59,7 +59,7 @@ You can visit the page at the following link: <a href="https://herotech2023.000w
 
 
 ## End Notes
-Although the main idea of the project is extensive, in this project we could only advance a demo, but we do not rule out continuing with the plans that will be developed.
+Although the main idea of the project is extensive, in this project we could only advance a demo, but we don't rule out continuing with the plans that will be developed.
 
 Thanks, I hope you enjoy the project! :)
 
